@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.2",
-  "apkUrl": "https://raw.githubusercontent.com/imranwwe436-beep/video-lab-ai-updates/main/video-lab-ai-v1.1.2.apk",
-  "notes": "تحسينات في تجربة فحص التحديث، ورسائل عربية واضحة عند بدء التنزيل أو تعذّر الفحص."
+  "versionCode": 5,
+  "versionName": "1.1.3",
+  "apkUrl": "https://raw.githubusercontent.com/imranwwe436-beep/video-lab-ai-updates/main/video-lab-ai-v1.1.3.apk",
+  "notes": "يفتح زر التحديث ملف APK في متصفح أندرويد لتسهيل التنزيل والتثبيت، مع رسائل عربية واضحة عند بدء العملية أو تعذّر الفحص."
 }
