@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "apkUrl": "https://raw.githubusercontent.com/imranwwe436-beep/video-lab-ai-updates/main/video-lab-ai-v1.1.1.apk",
-  "notes": "تحسينات في واجهة التطبيق وقناة التحديث التلقائي."
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://raw.githubusercontent.com/imranwwe436-beep/video-lab-ai-updates/main/video-lab-ai-v1.1.2.apk",
+  "notes": "تحسينات في تجربة فحص التحديث، ورسائل عربية واضحة عند بدء التنزيل أو تعذّر الفحص."
 }
